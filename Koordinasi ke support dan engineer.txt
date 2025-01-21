@@ -1,0 +1,11 @@
+Koordinasi ke support dan engineer :
+
+1. Mencari tahu terlebih dahulu apa isu kritis yang mempengaruhi sistem production dan dokumentasikan kejadianya meliputi Waktu, dampak, dan system yang tepengaruh yang mana saja.
+2. Setelah dokumentasi, tentukan urgensi dan dampak dari isu yang ada.
+3. Setelah itu eskalasi isu yang ada ke team leader atau atasan.
+4. Hubungi tim support dan engineer atas masalah tersebut dan lakukan meeting.
+5. Di dalam meeting pastikan semua orang mengerti isu yang dibicarakan dan tetapkan PIC dan waktu penyelesaian isu tersebut.
+6. Lakukan investigasi dan troubleshooting Bersama dengan tim engineer dan tim support untuk melakukan analisis dari penyebab utama isu dan mengumpulkan informasi penting dari sisi pengguna.
+7. Implementasi solusi yang sudah ditemukan dengan semua anggota tim, pastikan melakukan backup program terlebih dahulu sebelum mengiplementasikan solusi yang ada semisal solusi yang digunakan tidak berhasil.
+8. Jika solusi tersebut menyelesaikan masalah yang ada, lakukan follow up dan dokumentasi isu serta solusi yang ada agar jika terjadi masalah serupa bisa menggunakan dokumentasi tersebut.
+

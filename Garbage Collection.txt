@@ -1,0 +1,4 @@
+Garbage Collection :
+1. HashMap menggunakan alokasi bucket array dimana setiap bucket dapat menyimpan satu atau lebih entry
+2. Setelah metode createList selesai dieksekusi, data akan hilang karena variable local, memori akan dibebaskan oleh garbage collector, dan reference ke hashmap akan hilang.
+3. Ya, hashmap memiliki potensi dalam kebocoran memori jika tidak di free / dibersihkan referencenya setelah tidak digunakan.
